@@ -1,0 +1,23 @@
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\start\ExpenseTracker.DTO\bin\Debug\ExpenseTracker.DTO.dll
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\start\ExpenseTracker.DTO\bin\Debug\ExpenseTracker.DTO.pdb
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\start\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.dll
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\start\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.pdb
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.DTO\bin\Debug\ExpenseTracker.DTO.dll
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.DTO\bin\Debug\ExpenseTracker.DTO.pdb
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.dll
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.pdb
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.csprojResolveAssemblyReference.cache
+C:\Dropbox\Projects\end\ExpenseTracker.DTO\bin\Debug\ExpenseTracker.DTO.dll
+C:\Dropbox\Projects\end\ExpenseTracker.DTO\bin\Debug\ExpenseTracker.DTO.pdb
+C:\Dropbox\Projects\end\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.csprojResolveAssemblyReference.cache
+C:\Dropbox\Projects\end\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.dll
+C:\Dropbox\Projects\end\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.pdb
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.DTO\bin\Debug\ExpenseTracker.DTO.dll
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.DTO\bin\Debug\ExpenseTracker.DTO.pdb
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.dll
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.pdb
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.DTO\bin\Debug\ExpenseTracker.DTO.dll
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.DTO\bin\Debug\ExpenseTracker.DTO.pdb
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.csprojResolveAssemblyReference.cache
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.dll
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.DTO\obj\Debug\ExpenseTracker.DTO.pdb

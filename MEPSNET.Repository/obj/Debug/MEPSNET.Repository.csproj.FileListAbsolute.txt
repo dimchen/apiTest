@@ -1,0 +1,6 @@
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\MEPSNET.Repository\obj\Debug\MEPSNET.Repository.csprojResolveAssemblyReference.cache
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\MEPSNET.Repository\bin\Debug\MEPSNET.Repository.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\MEPSNET.Repository\bin\Debug\MEPSNET.Repository.pdb
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\MEPSNET.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\MEPSNET.Repository\obj\Debug\MEPSNET.Repository.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\MEPSNET.Repository\obj\Debug\MEPSNET.Repository.pdb

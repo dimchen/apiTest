@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Owin.1.0.0.0.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:Owin.Fakes.StubIAppBuilder">
+            <summary>Stub type of Owin.IAppBuilder</summary>
+        </member>
+        <member name="M:Owin.Fakes.StubIAppBuilder.#ctor">
+            <summary>Initializes a new instance of type StubIAppBuilder</summary>
+        </member>
+        <member name="F:Owin.Fakes.StubIAppBuilder.BuildType">
+            <summary>Sets the stub of IAppBuilder.Build(Type returnType)</summary>
+        </member>
+        <member name="F:Owin.Fakes.StubIAppBuilder.New">
+            <summary>Sets the stub of IAppBuilder.New()</summary>
+        </member>
+        <member name="M:Owin.Fakes.StubIAppBuilder.o::Owin#IAppBuilder#Build(System.Type)">
+            <summary>Sets the stub of IAppBuilder.Build(Type returnType)</summary>
+        </member>
+        <member name="M:Owin.Fakes.StubIAppBuilder.o::Owin#IAppBuilder#New">
+            <summary>Sets the stub of IAppBuilder.New()</summary>
+        </member>
+        <member name="M:Owin.Fakes.StubIAppBuilder.o::Owin#IAppBuilder#Use(System.Object,System.Object[])">
+            <summary>Sets the stub of IAppBuilder.Use(Object middleware, Object[] args)</summary>
+        </member>
+        <member name="F:Owin.Fakes.StubIAppBuilder.PropertiesGet">
+            <summary>Sets the stub of IAppBuilder.get_Properties()</summary>
+        </member>
+        <member name="F:Owin.Fakes.StubIAppBuilder.UseObjectObjectArray">
+            <summary>Sets the stub of IAppBuilder.Use(Object middleware, Object[] args)</summary>
+        </member>
+        <member name="P:Owin.Fakes.StubIAppBuilder.o::Owin#IAppBuilder#Properties">
+            <summary>Sets the stub of IAppBuilder.get_Properties()</summary>
+        </member>
+    </members>
+</doc>

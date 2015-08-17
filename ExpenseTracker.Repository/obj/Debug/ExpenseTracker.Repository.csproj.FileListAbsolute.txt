@@ -1,0 +1,234 @@
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.csprojResolveAssemblyReference.cache
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.Repository.dll.config
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.Repository.dll
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.Repository.pdb
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\EntityFramework.dll
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.DTO.dll
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\Microsoft.Owin.dll
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\Owin.dll
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\System.Net.Http.Formatting.dll
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\System.Web.Helpers.dll
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\System.Web.Http.dll
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\System.Web.Http.Owin.dll
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\System.Web.Http.WebHost.dll
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\System.Web.Mvc.dll
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\System.Web.Razor.dll
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.dll
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.DTO.pdb
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\EntityFramework.xml
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\Microsoft.Owin.xml
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\System.Net.Http.Formatting.xml
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\System.Web.Helpers.xml
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\System.Web.Http.xml
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\System.Web.Http.Owin.xml
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\System.Web.Http.WebHost.xml
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\System.Web.Mvc.xml
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\System.Web.Razor.xml
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.xml
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.dll
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.pdb
+C:\project\building-securing-restful-api-aspdotnet\3-exercise-files\1_base\end\ExpenseTracker.Repository\bin\Debug\Marvin.JsonPatch.dll
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.Repository.dll.config
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.Repository.dll
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.Repository.pdb
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\EntityFramework.dll
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.DTO.dll
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\Marvin.JsonPatch.dll
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\Microsoft.Owin.dll
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\Owin.dll
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\System.Net.Http.Formatting.dll
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\System.Web.Helpers.dll
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\System.Web.Http.dll
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\System.Web.Http.Owin.dll
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\System.Web.Http.WebHost.dll
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\System.Web.Mvc.dll
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\System.Web.Razor.dll
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.dll
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.DTO.pdb
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\EntityFramework.xml
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\Microsoft.Owin.xml
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\System.Net.Http.Formatting.xml
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\System.Web.Helpers.xml
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\System.Web.Http.xml
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\System.Web.Http.Owin.xml
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\System.Web.Http.WebHost.xml
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\System.Web.Mvc.xml
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\System.Web.Razor.xml
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.xml
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.csprojResolveAssemblyReference.cache
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.dll
+C:\Dropbox\Projects\end\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.pdb
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.Repository.dll.config
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.Repository.dll
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.Repository.pdb
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\EntityFramework.dll
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.DTO.dll
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\Marvin.JsonPatch.dll
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\Microsoft.Owin.dll
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\Owin.dll
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\System.Net.Http.Formatting.dll
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\System.Web.Helpers.dll
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\System.Web.Http.dll
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\System.Web.Http.Owin.dll
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\System.Web.Http.WebHost.dll
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\System.Web.Mvc.dll
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\System.Web.Razor.dll
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.dll
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.DTO.pdb
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\EntityFramework.xml
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\Microsoft.Owin.xml
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\System.Net.Http.Formatting.xml
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\System.Web.Helpers.xml
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\System.Web.Http.xml
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\System.Web.Http.Owin.xml
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\System.Web.Http.WebHost.xml
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\System.Web.Mvc.xml
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\System.Web.Razor.xml
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.xml
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.csprojResolveAssemblyReference.cache
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.dll
+C:\project\Building Secured WEB API\1\end\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.pdb
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.Repository.dll.config
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.Repository.dll
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.Repository.pdb
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\EntityFramework.dll
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.DTO.dll
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\Marvin.JsonPatch.dll
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\Microsoft.Owin.dll
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\Owin.dll
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\System.Net.Http.Formatting.dll
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\System.Web.Helpers.dll
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\System.Web.Http.dll
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\System.Web.Http.Owin.dll
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\System.Web.Http.WebHost.dll
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\System.Web.Mvc.dll
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\System.Web.Razor.dll
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.dll
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.DTO.pdb
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\EntityFramework.xml
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\Microsoft.Owin.xml
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\System.Net.Http.Formatting.xml
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\System.Web.Helpers.xml
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\System.Web.Http.xml
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\System.Web.Http.Owin.xml
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\System.Web.Http.WebHost.xml
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\System.Web.Mvc.xml
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\System.Web.Razor.xml
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.xml
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.csprojResolveAssemblyReference.cache
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.dll
+C:\project\Building Secured WEB API\dev\end\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.pdb
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.Repository.dll.config
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.Repository.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.Repository.pdb
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\EntityFramework.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.DTO.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\Marvin.JsonPatch.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\Microsoft.Owin.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\Owin.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\System.Net.Http.Formatting.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\System.Web.Helpers.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\System.Web.Http.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\System.Web.Http.Owin.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\System.Web.Http.WebHost.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\System.Web.Mvc.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\System.Web.Razor.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.DTO.pdb
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\EntityFramework.xml
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\Microsoft.Owin.xml
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\System.Net.Http.Formatting.xml
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\System.Web.Helpers.xml
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\System.Web.Http.xml
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\System.Web.Http.Owin.xml
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\System.Web.Http.WebHost.xml
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\System.Web.Mvc.xml
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\System.Web.Razor.xml
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.xml
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.csprojResolveAssemblyReference.cache
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.pdb
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.Repository.dll.config
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.Repository.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.Repository.pdb
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\EntityFramework.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.DTO.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\Marvin.JsonPatch.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\Microsoft.Owin.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\Newtonsoft.Json.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\Owin.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\System.Net.Http.Formatting.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\System.Web.Helpers.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\System.Web.Http.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\System.Web.Http.Owin.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\System.Web.Http.WebHost.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\System.Web.Mvc.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\System.Web.Razor.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\ExpenseTracker.DTO.pdb
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\EntityFramework.xml
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\Microsoft.Owin.xml
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\Newtonsoft.Json.xml
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\System.Net.Http.Formatting.xml
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\System.Web.Helpers.xml
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\System.Web.Http.xml
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\System.Web.Http.Owin.xml
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\System.Web.Http.WebHost.xml
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\System.Web.Mvc.xml
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\System.Web.Razor.xml
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.xml
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.csprojResolveAssemblyReference.cache
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.Repository\obj\Debug\ExpenseTracker.Repository.pdb

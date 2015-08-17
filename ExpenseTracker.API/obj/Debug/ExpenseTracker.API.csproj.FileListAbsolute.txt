@@ -1,0 +1,64 @@
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\bin\ExpenseTracker.API.dll.config
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\bin\ExpenseTracker.API.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\bin\ExpenseTracker.API.pdb
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\bin\EntityFramework.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\bin\EntityFramework.SqlServer.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\bin\ExpenseTracker.Constants.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\bin\ExpenseTracker.DTO.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\bin\ExpenseTracker.Repository.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\bin\Marvin.JsonPatch.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\bin\Microsoft.Owin.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\bin\Newtonsoft.Json.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\bin\Owin.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\bin\System.Net.Http.Formatting.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\bin\System.Web.Http.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\bin\System.Web.Http.Owin.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\bin\System.Web.Http.WebHost.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\bin\ExpenseTracker.Constants.pdb
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\bin\ExpenseTracker.DTO.pdb
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\bin\ExpenseTracker.Repository.pdb
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\bin\EntityFramework.xml
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\bin\EntityFramework.SqlServer.xml
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\bin\Microsoft.Owin.xml
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\bin\Newtonsoft.Json.xml
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\bin\System.Net.Http.Formatting.xml
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\bin\System.Web.Http.xml
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\bin\System.Web.Http.Owin.xml
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\bin\System.Web.Http.WebHost.xml
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\obj\Debug\ExpenseTracker.API.csprojResolveAssemblyReference.cache
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\obj\Debug\ExpenseTracker.API.dll
+C:\project\Building Secured WEB API\dev\end2\ExpenseTracker.API\obj\Debug\ExpenseTracker.API.pdb
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\bin\ExpenseTracker.API.dll.config
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\bin\ExpenseTracker.API.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\bin\ExpenseTracker.API.pdb
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\bin\EntityFramework.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\bin\EntityFramework.SqlServer.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\bin\ExpenseTracker.Constants.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\bin\ExpenseTracker.DTO.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\bin\ExpenseTracker.Repository.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\bin\Marvin.JsonPatch.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\bin\Microsoft.Owin.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\bin\Newtonsoft.Json.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\bin\Owin.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\bin\System.Net.Http.Formatting.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\bin\System.Web.Http.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\bin\System.Web.Http.Owin.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\bin\System.Web.Http.WebHost.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\bin\ExpenseTracker.Constants.pdb
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\bin\ExpenseTracker.DTO.pdb
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\bin\ExpenseTracker.Repository.pdb
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\bin\EntityFramework.xml
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\bin\EntityFramework.SqlServer.xml
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\bin\Microsoft.Owin.xml
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\bin\Newtonsoft.Json.xml
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\bin\System.Net.Http.Formatting.xml
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\bin\System.Web.Http.xml
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\bin\System.Web.Http.Owin.xml
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\bin\System.Web.Http.WebHost.xml
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\obj\Debug\ExpenseTracker.API.csprojResolveAssemblyReference.cache
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\obj\Debug\ExpenseTracker.API.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\ExpenseTracker.API\obj\Debug\ExpenseTracker.API.pdb

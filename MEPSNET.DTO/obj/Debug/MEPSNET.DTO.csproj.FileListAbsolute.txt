@@ -1,0 +1,5 @@
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\MEPSNET.DTO\bin\Debug\MEPSNET.DTO.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\MEPSNET.DTO\bin\Debug\MEPSNET.DTO.pdb
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\MEPSNET.DTO\obj\Debug\MEPSNET.DTO.csprojResolveAssemblyReference.cache
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\MEPSNET.DTO\obj\Debug\MEPSNET.DTO.dll
+C:\project\Building Secured WEB API\dev\end_3.7 - Copy\MEPSNET.DTO\obj\Debug\MEPSNET.DTO.pdb
